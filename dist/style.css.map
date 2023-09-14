@@ -1,0 +1,1 @@
+{"version":3,"file":"style.css","mappings":";;;AACE;EACE;AAAJ,C","sources":["webpack://spline_test/./src/style/main.scss"],"sourcesContent":[".main {\n  div {\n    background-color: rgb(244,244,244);\n  }\n}"],"names":[],"sourceRoot":""}
